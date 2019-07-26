@@ -1,6 +1,17 @@
-# Oshop
+# Organic Shop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
+This project demonstrates a simple e-commerce application for an imaginary organic shop. It is built with Angular, Firebase and Bootstrap 4 as the final project.
+
+## What you will learn
+
+Use Angular and Firebase to build real-time serverless applications
+Think like a software engineer
+Write clean and testable code
+Design classes and modules with proper boundaries
+
+## Note
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2. 
 
 ## Development server
 
