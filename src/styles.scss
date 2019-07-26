@@ -1,0 +1,54 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+$primary-color: #c1d62e;
+
+body {
+    padding-top: 80px;
+}
+
+.navbar-toggler {
+    cursor: pointer;
+}
+
+.form-control.ng-touched.ng-invalid {
+    border: 2px solid red;
+}
+
+.card-img-top {
+    max-height: 200px;
+    min-height: 200px;
+    overflow: hidden;
+}
+
+.navbar-light .navbar-brand {
+    color: $primary-color;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: $primary-color;
+    border-color: $primary-color;
+}
+
+.btn-primary {
+    background-color:$primary-color;
+    border-color: $primary-color;
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+    background-color: $primary-color;
+    border-color: $primary-color;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: $primary-color;
+    border-color: $primary-color;
+}
+
+.no-gutters > .col {
+    vertical-align: middle;
+}

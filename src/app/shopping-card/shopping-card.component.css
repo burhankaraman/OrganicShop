@@ -1,0 +1,15 @@
+.thumbnail {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-size: cover;
+}
+p button {
+    cursor: pointer;
+}
+
+.container {
+    border: 2px solid #c1d62e;
+    padding: 20px;
+    border-radius: 15px;
+}
