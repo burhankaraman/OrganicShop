@@ -9,7 +9,8 @@ Think like a software engineer
 Write clean and testable code
 Design classes and modules with proper boundaries
 
-## Note
+## Important Note
+Before running this application on your machine, create a Firebase project. You need to replace the Firebase settings I've defined in /src/environments with the settings of your own Firebase project. You can import the OShopDB.json file directly into the your newly created firebase database to create the database.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2. 
 
